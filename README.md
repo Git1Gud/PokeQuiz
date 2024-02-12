@@ -1,5 +1,5 @@
 # PokeQuiz
-##  Scratch based Pokemon quiz game inspired by Pokemon firered later converted to html using [Online converter](https://packager.turbowarp.org/)
+##  Scratch based Pokemon quiz game inspired by Pokemon FireRed later converted to html using [Online converter](https://packager.turbowarp.org/)
 
 
 
